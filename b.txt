@@ -1,1 +1,2 @@
 this is vcs:git
+This is VCS:Git. This is ninja branch"
